@@ -1,3 +1,3 @@
 # MachineLearning
 
-Ongeneerselijk ziek
+Ongeneeselijk ziek
