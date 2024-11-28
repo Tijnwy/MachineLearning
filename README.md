@@ -4,7 +4,7 @@
 
 ## Opdracht 1: Exploratieve Data Analyse (EDA)
 - [X] **Maak een account aan op Kaggle** en vorm een team.
-- [X] **Noteer de teamnaam, namen van teamleden, en Kaggle-gebruikersnamen** in het notebook.
+- [] **Noteer de teamnaam, namen van teamleden, en Kaggle-gebruikersnamen** in het notebook.
 - [X] **Laad de dataset in en inspecteer de datatypes** van iedere kolom.
 - [X] **Genereer basisstatistieken** voor iedere kolom (mean, std, min, max, etc.).
 - [ ] **Voeg tijdserie-elementen toe** (zoals maand, kwartaal, jaar) en visualiseer relevante patronen.
