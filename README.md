@@ -4,23 +4,23 @@
 
 ## Opdracht 1: Exploratieve Data Analyse (EDA)
 - [X] **Maak een account aan op Kaggle** en vorm een team.
-- [] **Noteer de teamnaam, namen van teamleden, en Kaggle-gebruikersnamen** in het notebook. Jim
+- [X] **Noteer de teamnaam, namen van teamleden, en Kaggle-gebruikersnamen** in het notebook. Joes
 - [X] **Laad de dataset in en inspecteer de datatypes** van iedere kolom.
 - [X] **Genereer basisstatistieken** voor iedere kolom (mean, std, min, max, etc.).
-- [ ] **Voeg tijdserie-elementen toe** (zoals maand, kwartaal, jaar) en visualiseer relevante patronen. Joes
-- [ ] **Visualiseer de relaties tussen de onafhankelijke variabelen** en de afhankelijke variabele met geschikte visualisaties (bijv. scatter plots, boxplots). Joes
-- [ ] **Analyseer en beschrijf de belangrijkste bevindingen** van de EDA. Joes
-- [ ] **Maak de dataset schoon** door onjuiste, irrelevante of missende data te verwijderen of te corrigeren. Joes
+- [X] **Voeg tijdserie-elementen toe** (zoals maand, kwartaal, jaar) en visualiseer relevante patronen. Joes
+- [X] **Visualiseer de relaties tussen de onafhankelijke variabelen** en de afhankelijke variabele met geschikte visualisaties (bijv. scatter plots, boxplots). Joes
+- [X] **Analyseer en beschrijf de belangrijkste bevindingen** van de EDA. Joes
+- [X] **Maak de dataset schoon** door onjuiste, irrelevante of missende data te verwijderen of te corrigeren. Joes
 
 ## Opdracht 2: Time Series Feature Engineering
-- [ ] **Voeg tijdserie-gerelateerde features toe**: Joes
-  - Trend
-  - Seizoenspatronen
-  - Cycli
+- [X] **Voeg tijdserie-gerelateerde features toe**: Joes
+  - Trend -Klaar
+  - Seizoenspatronen -Klaar
+  - Cycli -Klaar
 - [ ] **Voer Fourier-analyse uit** om seizoenspatronen te onderzoeken. Tijn
-- [ ] **Onderzoek de trends** in de data (bijv. stijgende of dalende patronen over de tijd). Joes
+- [X] **Onderzoek de trends** in de data (bijv. stijgende of dalende patronen over de tijd). Joes
 - [ ] **Onderzoek de cycli en autocorrelatie** (gebruik autocorrelation plots om correlaties over de tijd te visualiseren). Tijn
-- [ ] **Voeg andere tijdsgebaseerde features toe** (bijv. dag van de week, maand, feestdagen). Joes
+- [X] **Voeg andere tijdsgebaseerde features toe** (bijv. dag van de week, maand, feestdagen). Joes
 - [ ] **Onderzoek de invloed van de tijdseriefeatures** op de voorspellingen, samen met andere features. Jim
 
 ## Opdracht 3: Modelleren
