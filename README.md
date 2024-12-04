@@ -17,7 +17,7 @@
   - Trend -Klaar
   - Seizoenspatronen -Klaar
   - Cycli -Klaar
-- [ ] **Voer Fourier-analyse uit** om seizoenspatronen te onderzoeken. Tijn
+- [X] **Voer Fourier-analyse uit** om seizoenspatronen te onderzoeken. Tijn
 - [X] **Onderzoek de trends** in de data (bijv. stijgende of dalende patronen over de tijd). Joes
 - [ ] **Onderzoek de cycli en autocorrelatie** (gebruik autocorrelation plots om correlaties over de tijd te visualiseren). Tijn
 - [X] **Voeg andere tijdsgebaseerde features toe** (bijv. dag van de week, maand, feestdagen). Joes
